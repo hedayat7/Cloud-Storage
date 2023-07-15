@@ -232,7 +232,7 @@ public abstract class DrawerActivity extends ToolbarActivity
 
             // Setting up drawer header
             mNavigationViewHeader = mNavigationView.getHeaderView(0);
-            updateHeader();
+            //updateHeader(); //dayat
 
             setupDrawerMenu(mNavigationView);
             getAndDisplayUserQuota();
