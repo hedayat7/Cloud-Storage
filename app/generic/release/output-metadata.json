@@ -1,0 +1,20 @@
+{
+  "version": 3,
+  "artifactType": {
+    "type": "APK",
+    "kind": "Directory"
+  },
+  "applicationId": "com.nextcloud.client",
+  "variantName": "genericRelease",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "attributes": [],
+      "versionCode": 30260200,
+      "versionName": "3.26.2 Alpha1",
+      "outputFile": "generic-release-30260200.apk"
+    }
+  ],
+  "elementType": "File"
+}
