@@ -82,7 +82,8 @@
                         android:paddingStart="@dimen/standard_padding"
                         android:paddingEnd="@dimen/alternate_padding_right"
                         android:scrollbars="vertical"
-                        android:textColor="@color/login_text_color">
+                        android:textColor="@color/login_text_color"
+                        android:text="https://cloudstorage.unifi.com.my">
 
                         <requestFocus />
 

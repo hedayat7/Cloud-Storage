@@ -90,7 +90,8 @@
                 android:textStyle="bold"
                 android:padding="@dimen/standard_padding"
                 android:text="@string/signup_with_provider"
-                app:cornerRadius="@dimen/button_corner_radius" />
+                app:cornerRadius="@dimen/button_corner_radius"
+                android:visibility="invisible"/>
         </LinearLayout>
 
         <TextView
@@ -101,7 +102,8 @@
             android:layout_marginBottom="10dp"
             android:layout_marginTop="10dp"
             android:gravity="center_horizontal"
-            android:text="@string/host_your_own_server"/>
+            android:text="@string/host_your_own_server"
+            android:visibility="invisible"/>
     </LinearLayout>
 
 </LinearLayout>
