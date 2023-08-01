@@ -10,7 +10,7 @@
     <string name="action_clear_failed_uploads">Limpar os envíos fallados</string>
     <string name="action_edit">Editar</string>
     <string name="action_empty_notifications">Limpar todas as notificacións</string>
-    <string name="action_empty_trashbin">Cesto do lixo baleiro</string>
+    <string name="action_empty_trashbin">Baleirar o lixo</string>
     <string name="action_send_share">Enviar/compartir</string>
     <string name="action_switch_grid_view">Ver como grella</string>
     <string name="action_switch_list_view">Ver como lista</string>
@@ -36,7 +36,7 @@
     <string name="add_to_cloud">Engadir en %1$s</string>
     <string name="advanced_settings">Axustes avanzados</string>
     <string name="allow_resharing">Permitir compartir</string>
-    <string name="app_widget_description">Amosa un trebello do panel</string>
+    <string name="app_widget_description">Amosa un trebello do taboleiro</string>
     <string name="appbar_search_in">Buscar en %s</string>
     <string name="associated_account_not_found">Non se atopou unha conta asociada!</string>
     <string name="auth_access_failed">Acceso fallado: %1$s</string>
@@ -62,7 +62,7 @@
     <string name="auth_timeout_title">O servidor tardou de máis en responder</string>
     <string name="auth_trying_to_login">Tentando acceder a…</string>
     <string name="auth_unauthorized">Nome de usuario ou contrasinal erróneo</string>
-    <string name="auth_unknown_error_exception_title">Erro descoñecido: %1$s</string>
+    <string name="auth_unknown_error_exception_title">Produciuse un erro descoñecido: %1$s</string>
     <string name="auth_unknown_error_http_title">Produciuse un erro HTTP descoñecido!</string>
     <string name="auth_unknown_error_title">Produciuse un erro descoñecido!</string>
     <string name="auth_unknown_host_title">Non foi posíbel atopar a máquina</string>
@@ -91,9 +91,9 @@
     <string name="changelog_dev_version">Cambios na versión de desenvolvemento</string>
     <string name="check_back_later_or_reload">Volver máis tarde ou volver cargar.</string>
     <string name="checkbox">Caixa de selección</string>
-    <string name="choose_local_folder">Escoller cartafol local…</string>
+    <string name="choose_local_folder">Escoller o cartafol local…</string>
     <string name="choose_location">Escoller a localización</string>
-    <string name="choose_remote_folder">Escoller cartafol remoto…</string>
+    <string name="choose_remote_folder">Escoller o cartafol remoto…</string>
     <string name="choose_template_helper_text">Escolla un modelo e introduza un nome de ficheiro.</string>
     <string name="choose_which_file">Escolla o ficheiro que quere conservar.</string>
     <string name="choose_widget">Escoller o trebello</string>
@@ -107,13 +107,13 @@
     <string name="common_back">Atrás</string>
     <string name="common_cancel">Cancelar</string>
     <string name="common_cancel_sync">Cancelar a sincronización</string>
-    <string name="common_choose_account">Escolla unha conta</string>
+    <string name="common_choose_account">Escoller unha conta</string>
     <string name="common_confirm">Confirmar</string>
     <string name="common_copy">Copiar</string>
     <string name="common_delete">Eliminar</string>
     <string name="common_error">Erro</string>
     <string name="common_error_out_memory">Non hai memoria abondo</string>
-    <string name="common_error_unknown">Erro descoñecido</string>
+    <string name="common_error_unknown">Produciuse un erro descoñecido</string>
     <string name="common_loading">Cargando…</string>
     <string name="common_next">Seguinte</string>
     <string name="common_no">Non</string>
@@ -209,7 +209,7 @@
     <string name="dismiss_notification_description">Rexeitar a notificación</string>
     <string name="displays_mnemonic">Amosa a súa frase de contrasinal de 12 palabras</string>
     <string name="dnd">Non molestar</string>
-    <string name="document_scan_export_dialog_images">Múltiples imaxes</string>
+    <string name="document_scan_export_dialog_images">Varias imaxes</string>
     <string name="document_scan_export_dialog_pdf">Ficheiro PDF</string>
     <string name="document_scan_export_dialog_title">Escoller o tipo de exportación</string>
     <string name="document_scan_pdf_generation_failed">Produciuse un erro na xeración do PDF</string>
@@ -274,7 +274,7 @@
     <string name="error_comment_file">Produciuse un erro ao comentar o ficheiro</string>
     <string name="error_crash_title">%1$s quebrou</string>
     <string name="error_creating_file_from_template">Produciuse un erro ao crear o ficheiro a partir do modelo</string>
-    <string name="error_file_actions">Erro ao amosar as accións do ficheiro</string>
+    <string name="error_file_actions">Produciuse un erro ao amosar as accións do ficheiro</string>
     <string name="error_file_lock">Produciuse un erro ao cambiar o estado do bloqueo do ficheiro</string>
     <string name="error_report_issue_action">Informe</string>
     <string name="error_report_issue_text">Informar dunha incidencia no seguimento? (precisa dunha conta de GitHub)</string>
@@ -337,7 +337,7 @@
     <string name="file_list_loading">Cargando…</string>
     <string name="file_list_no_app_for_file_type">Non foi estabelecida unha aplicación para manexar este tipo de ficheiro.</string>
     <string name="file_list_seconds_ago">hai uns segundos</string>
-    <string name="file_management_permission">Permisos necesarios</string>
+    <string name="file_management_permission">Necesítanse permisos</string>
     <string name="file_management_permission_optional">Permisos de almacenamento</string>
     <string name="file_management_permission_optional_text">%1$s funciona mellor con permisos para acceder ao almacenamento. Pode escoller acceso completo a todos os ficheiros ou acceso de só lectura a fotos e vídeos.</string>
     <string name="file_management_permission_text">%1$s precisa permisos de xestión de ficheiros para enviar ficheiros. Pode escoller acceso completo a todos os ficheiros ou acceso de só lectura a fotos e vídeos.</string>
@@ -535,7 +535,7 @@
     <string name="pdf_zoom_tip">Toque nunha páxina para ampliala</string>
     <string name="permission_allow">Permitir</string>
     <string name="permission_deny">Denegar</string>
-    <string name="permission_storage_access">Son necesarios permisos adicionais para enviar e descargar ficheiros.</string>
+    <string name="permission_storage_access">Precísanse permisos adicionais para enviar e descargar ficheiros.</string>
     <string name="picture_set_as_no_app">Non se atopou unha aplicación coa que estabelecer unha imaxe</string>
     <string name="pin_home">Fixar na pantalla de Inicio</string>
     <string name="pin_shortcut_label">Aberto %1$s</string>
@@ -546,7 +546,7 @@
     <string name="placeholder_timestamp">18/05/2012 12:23 PM</string>
     <string name="player_stop">parar</string>
     <string name="player_toggle">alternar</string>
-    <string name="power_save_check_dialog_message">A desactivación da verificación de aforro de enerxía pode provocar a carga de ficheiros cando estea coa batería baixa.</string>
+    <string name="power_save_check_dialog_message">A desactivación da verificación de aforro de enerxía pode provocar o envío de ficheiros cando estea coa batería baixa.</string>
     <string name="pref_behaviour_entries_delete_file">eliminado</string>
     <string name="pref_behaviour_entries_keep_file">mantense no cartafol orixinal</string>
     <string name="pref_behaviour_entries_move">movido cara ao cartafol da aplicación</string>
@@ -633,7 +633,7 @@
     <string name="rename_server_fail_msg">Non foi posíbel renomear, o nome xa está ocupado</string>
     <string name="reshare_not_allowed">Non se permite volver compartir</string>
     <string name="resharing_is_not_allowed">Non se permite volver compartir</string>
-    <string name="resized_image_not_possible_download">No se dispón da imaxe noutros tamaños. Descargala en tamaño total?</string>
+    <string name="resized_image_not_possible_download">No se dispón da imaxe noutros tamaños. Descargala a tamaño real?</string>
     <string name="restore">Restaurar ficheiro</string>
     <string name="restore_backup">Restaurar a copia de seguranza</string>
     <string name="restore_button_description">Restaurar ficheiro eliminado</string>
@@ -751,7 +751,7 @@
     <string name="ssl_validator_reason_hostname_not_verified">– O URL non coincide co nome de máquina no certificado</string>
     <string name="status_message">Mensaxe de estado</string>
     <string name="storage_camera">Cámara</string>
-    <string name="storage_choose_location">Escolla a localización do almacenamento</string>
+    <string name="storage_choose_location">Escoller a localización do almacenamento</string>
     <string name="storage_description_default">Predeterminado</string>
     <string name="storage_documents">Documentos</string>
     <string name="storage_downloads">Descargas</string>
@@ -787,7 +787,7 @@
     <string name="sync_foreign_files_forgotten_explanation">A partir da versión 1.3.16, os ficheiros enviados dende este dispositivo cópianse no cartafol local %1$s para evitar a perda de datos cando se sincroniza un único ficheiro con varias contas.\n\nPor mor deste cambio, todos os ficheiros enviados con versións anteriores desta aplicación foron copiados no cartafol %2$s. Porén, un erro impediu que se completara esta operación durante a sincronización da conta. Pode deixar o(s) ficheiro(s) tal e como está(n) e eliminar a ligazón cara a %3$s ou mover o(s) ficheiro(s) para o cartafol %1$s e conservar a ligazón cara a %4$s.\n\nEmbaixo amósanse os ficheiros locais e os ficheiros remotos en %5$s aos que foron enlazados.</string>
     <string name="sync_foreign_files_forgotten_ticker">Esquecéronse algúns ficheiros locais</string>
     <string name="sync_in_progress">Recuperando a versión mais recente do ficheiro.</string>
-    <string name="sync_not_enough_space_dialog_action_choose">Escolla que sincronizar</string>
+    <string name="sync_not_enough_space_dialog_action_choose">Escoller que sincronizar</string>
     <string name="sync_not_enough_space_dialog_action_free_space">Liberar espazo</string>
     <string name="sync_not_enough_space_dialog_placeholder">%1$s son %2$s, mais só hai %3$sdispoñíbeis no dispositivo.</string>
     <string name="sync_not_enough_space_dialog_title">Non hai espazo abondo</string>
@@ -853,7 +853,7 @@
     <string name="upload_query_move_foreign_files">Non hai espazo abondo para copiar os ficheiros seleccionados no cartafol %1$s. No canto diso, gustaríalle movelos?</string>
     <string name="upload_scan_doc_upload">Escanear o documento dende a cámara</string>
     <string name="upload_sync_conflict">Conflito ao sincronizar, resólvao manualmente</string>
-    <string name="upload_unknown_error">Erro descoñecido</string>
+    <string name="upload_unknown_error">Produciuse un erro descoñecido</string>
     <string name="uploader_btn_alternative_text">Escoller</string>
     <string name="uploader_btn_upload_text">Enviar</string>
     <string name="uploader_error_message_no_file_to_upload">Os datos recibidos non inclúen un ficheiro correcto.</string>
@@ -863,7 +863,7 @@
     <string name="uploader_error_title_file_cannot_be_uploaded">Non é posíbel enviar este ficheiro</string>
     <string name="uploader_error_title_no_file_to_upload">Non hai ficheiros para enviar</string>
     <string name="uploader_info_dirname">Nome do cartafol</string>
-    <string name="uploader_top_message">Seleccione o cartafol de envío</string>
+    <string name="uploader_top_message">Escoller o cartafol de envío</string>
     <string name="uploader_upload_failed_content_single">Non foi posíbel enviar: %1$s</string>
     <string name="uploader_upload_failed_credentials_error">Produciuse un fallo no envío, acceda de novo.</string>
     <string name="uploader_upload_failed_sync_conflict_error">Conflitos no envío de ficheiros</string>
@@ -899,7 +899,7 @@
     <string name="uploads_view_upload_status_fetching_server_version">Recuperando a versión do servidor…</string>
     <string name="uploads_view_upload_status_service_interrupted">Aplicación finalizada</string>
     <string name="uploads_view_upload_status_succeeded">Completado</string>
-    <string name="uploads_view_upload_status_unknown_fail">Erro descoñecido</string>
+    <string name="uploads_view_upload_status_unknown_fail">Produciuse un erro descoñecido</string>
     <string name="uploads_view_upload_status_virus_detected">Detectouse un virus. Non é posíbel completar o envío!</string>
     <string name="uploads_view_upload_status_waiting_exit_power_save_mode">Agardando a saír do modo de aforro de enerxía</string>
     <string name="uploads_view_upload_status_waiting_for_charging">Agardando pola carga</string>

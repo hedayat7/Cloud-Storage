@@ -16,7 +16,7 @@ buildscript {
 }
 
 plugins {
-    id "com.diffplug.spotless" version "6.19.0"
+    id "com.diffplug.spotless" version "6.20.0"
 }
 
 apply plugin: 'com.android.application'
@@ -256,7 +256,7 @@ dependencies {
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.6.1"
     implementation "androidx.work:work-runtime:$workRuntime"
     implementation "androidx.work:work-runtime-ktx:$workRuntime"
-    implementation "androidx.fragment:fragment-ktx:1.6.0"
+    implementation "androidx.fragment:fragment-ktx:1.6.1"
     implementation 'com.github.albfernandez:juniversalchardet:2.0.3' // need this version for Android <7
     compileOnly 'com.google.code.findbugs:annotations:3.0.1u2'
     implementation 'commons-io:commons-io:2.13.0'
@@ -376,7 +376,7 @@ dependencies {
     gplayImplementation "com.google.firebase:firebase-messaging:23.1.2"
     gplayImplementation 'com.google.android.play:review-ktx:2.0.1'
 
-    implementation 'com.github.nextcloud.android-common:ui:0.11.0'
+    implementation 'com.github.nextcloud.android-common:ui:0.12.0'
 
     implementation "androidx.room:room-runtime:$roomVersion"
     kapt "androidx.room:room-compiler:$roomVersion"
